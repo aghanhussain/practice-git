@@ -4,3 +4,6 @@ def add():
 
 def div():
     return 10/2
+
+def hello():
+    return "hello speaks"
