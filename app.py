@@ -1,5 +1,5 @@
 def add():
-    return 100+200
+    return 2+3
 
 
 def div():
@@ -8,3 +8,6 @@ def div():
 
 def testing():
     return "testing returns"
+
+def call():
+    return "calling"
