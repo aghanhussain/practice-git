@@ -1,5 +1,5 @@
 # this is main 
-def call1():
+def call1(name):
     return "call1 in progress"
 
 def call2():
